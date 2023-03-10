@@ -23,12 +23,7 @@ I’m Thomas, a Front-End Web Developer and I’m currently working for a digita
 - 🌱 I’m currently learning Node.js and Express.js 
 - 📫 How to reach me: thomasries.dev@gmail.com 
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thomas-Ries)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomasriesbalsamo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.thomasries.fr)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Ries)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Ries&show_icons=true&theme=dracula)
 
 
 <!--
