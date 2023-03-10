@@ -1,4 +1,4 @@
-# Thomas Ries
+# 👨‍🚀 Thomas Ries
 **`I am Front-End Web Developer`**
 
 I’m Thomas, a Front-End Web Developer and I’m currently working for a digital agency based in France. I really enjoy learning languages, frameworks like Vue.JS and React, increasing my skills and growing professionally by learning  new topic’s such as Agile’s methods or even pushing my knowledges to be a Full-Stack Web Developer. I also enjoy UI / UX and design in general. 
