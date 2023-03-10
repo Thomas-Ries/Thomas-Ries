@@ -19,12 +19,15 @@ I’m Thomas, a Front-End Web Developer and I’m currently working for a digita
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Increasing my skills 
-- 🌱 I’m currently learning Node.js and Express.js 
-- 📫 How to reach me: thomasries.dev@gmail.com
+## 🛰 Links
+- 📫 How to reach me: thomasries.dev[at]gmail.com
 - 🪐 <a href="https://fr.linkedin.com/in/thomasriesbalsamo" target="_blank">My Linkedin Profile </a>
 - 🛸 <a href="http://www.thomasries.fr/" target="_blank">My Website </a>
 - 💻 <a href="https://thomasries.medium.com/" target="_blank">My Medium Writings </a>
+
+## ☄ Other Informations
+- 🔭 I’m currently working on Increasing my skills 
+- 🌱 I’m currently learning Node.js and Express.js 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Ries&show_icons=true&theme=dracula)
 
