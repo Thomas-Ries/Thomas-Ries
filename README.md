@@ -16,7 +16,7 @@ I’m Thomas, a Front-End Web Developer and I’m currently working for a digita
 <img align="left" alt="JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
+<br/>
 
 - 🔭 I’m currently working on Increasing my skills 
 - 🌱 I’m currently learning Node.js and Express.js 
