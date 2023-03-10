@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Thomas
 #### I am Front-End Web Developer
-![banner](https://user-images.githubusercontent.com/73991398/224249509-281c72b8-2bae-4c80-af49-9795e508492d.jpg)
 
 I’m Thomas, a Front-End Web Developer and I’m currently working for a digital agency based in France. I really enjoy learning languages, frameworks like Vue.JS and React, increasing my skills and growing professionally by learning  new topic’s such as Agile’s methods or even pushing my knowledges to be a Full-Stack Web Developer. I also enjoy UI / UX and design in general. 
 
