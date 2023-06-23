@@ -22,11 +22,11 @@ I’m Thomas, a Front-End Web Developer and I’m currently working for a digita
 ## 🛰 Links
 - 📫 How to reach me: thomasries.dev[at]gmail.com
 - 🪐 <a href="https://fr.linkedin.com/in/thomasriesbalsamo" target="_blank">My Linkedin Profile </a>
-- 🛸 <a href="http://www.thomasries.fr/" target="_blank">My Website </a>
+- 🛸 <a href="http://www.thomas-dev.fr/" target="_blank">My Website </a>
 - 💻 <a href="https://thomasries.medium.com/" target="_blank">My Medium Writings </a>
 
 ## ☄ Other Informations
-- 🔭 I’m currently working on : Creating a REST API for insurance customers 
-- 🌱 I’m currently learning : Node.js and Express.js 
+- 🔭 I’m currently working on : A job application in React Native / Creating a REST API for insurance customers 
+- 🌱 I’m currently learning : React Native / Node.js and Express.js 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomas-Ries&show_icons=true&theme=dracula)
